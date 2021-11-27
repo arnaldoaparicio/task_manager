@@ -1,5 +1,7 @@
 # README
 
+This is the Task Manager repo from the tutorial for the Mod 2 Intermission prework.
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
